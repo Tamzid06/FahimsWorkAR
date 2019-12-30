@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bypus_s" size="0.050000 0.032584" />
+    <ImageTarget name="neutrophil" size="0.050000 0.030411" />
+    <ImageTarget name="pacemaker" size="0.080000 0.038513" />
+    <ImageTarget name="red_bc" size="0.065000 0.048458" />
+    <ImageTarget name="respiratory_s" size="0.070000 0.067473" />
+    <ImageTarget name="blood_c" size="0.230000 0.320503" />
+    <ImageTarget name="head" size="0.065000 0.056088" />
+    <ImageTarget name="finger" size="0.095000 0.108488" />
+    <ImageTarget name="ear" size="0.065000 0.044111" />
+    <ImageTarget name="spine2" size="0.095000 0.155413" />
+    <ImageTarget name="femer" size="0.095000 0.167098" />
+    <ImageTarget name="spine" size="0.100000 0.198137" />
+    <ImageTarget name="foot" size="0.090000 0.119573" />
+    <ImageTarget name="RibCage" size="0.080000 0.076025" />
+    <ImageTarget name="skeletal" size="0.090000 0.111526" />
+    <ImageTarget name="heart" size="0.090000 0.123823" />
+  </Tracking>
+</QCARConfig>
